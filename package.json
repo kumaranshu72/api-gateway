@@ -1,0 +1,25 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "description": "API Gateway using Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumaranshu72/api-gateway.git"
+  },
+  "keywords": [
+    "api_gateway"
+  ],
+  "engine": {
+    "node": "12.9.1"
+  },
+  "author": "Anshu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumaranshu72/api-gateway/issues"
+  },
+  "homepage": "https://github.com/kumaranshu72/api-gateway#readme"
+}
